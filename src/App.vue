@@ -2,6 +2,8 @@
   <div id="app">
   <div class="container-fluid">
     <app-header></app-header>
+    <h4> the stuff</h4>
+    <router-view> </router-view>
 
   </div>
   </div>
