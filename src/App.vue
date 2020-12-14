@@ -27,6 +27,10 @@ export default {
   },
   components: {
     "app-header": Header
+  },
+  created(){
+    console.log("app create")
+    this.$store.dispatch("getMovies")
   }
 }
 </script>
