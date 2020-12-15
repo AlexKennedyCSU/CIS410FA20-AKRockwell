@@ -1,6 +1,7 @@
 <template>
     <div>
         <h1> Home</h1>
+        <h3> Welcome to KnifeLife's Online Ordering System</h3>
     </div>
 </template>
 

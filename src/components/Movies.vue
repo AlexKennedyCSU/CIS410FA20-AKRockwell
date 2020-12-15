@@ -6,7 +6,7 @@
 <thead>
 <tr>
 
-    <th>Knife Name</th>
+    <th>Knifezz Name</th>
     <th>Available Stock</th>
     <th>Price</th>
 </tr>
