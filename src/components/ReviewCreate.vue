@@ -10,7 +10,7 @@
            <div class="form-group"><label for="summaryinput">Ship Address </label> <textarea row="3" id="summaryinput" name="summary" required="required" class="form-control" v-model="ShipAddress">
                </textarea>
                </div> 
-               <label for="KnifeID">Knife ID</label> <input type="number" id="KnifeID" name=" rating" min="1" max="10" required="required" class="form-control" v-model="KnifeID"></div>  
+              </div>  
                <button v-on:click="cancelReview" type="submit" class="btn btn-primary">Submit Review</button> <button type="clear" class="btn btn-outline-danger">
             Cancel
           </button> 
